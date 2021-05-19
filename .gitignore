@@ -1,0 +1,6 @@
+# Project exclude paths
+/node_modules/
+/evgaBStock.js
+/evgaBStock.js.map
+/runner.js
+/runner.js.map
